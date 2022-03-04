@@ -14,7 +14,7 @@ Vivaandev Wagle(vivaandevwagle), COO, Co-Founder
 Discord: Blaze15#3226
 ```
 
-###Developers
+### Developers
 
 ```
 Naveed Usman(SNUcoder)
