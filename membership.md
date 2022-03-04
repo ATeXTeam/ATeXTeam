@@ -4,7 +4,7 @@ email a message file to `c4vivaandevwagle@gmail.com`
 
 ex:-
 ```
-Name: <say your name>
+Name: <say your username>
 Post: <choose any kind of position like lead developer, project manager etc>
 Place: <select your country>
 Language: <type which programming language you know (also say weather you are Beginner, inntermediate or professionl) >
