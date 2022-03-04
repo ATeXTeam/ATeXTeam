@@ -1,7 +1,9 @@
 # ATeXTeam
-This is a happy friendly team  of open-source developers
+This is a happy friendly team  of open-source beginner developers
 
 here people make many repositries and upgrade them
+
+we make many tools and game by programming which are open-source.
 
 ## **People**
 
