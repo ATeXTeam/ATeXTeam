@@ -1,6 +1,6 @@
 # Instructtions to become a membership
 
-email a message file to `c4vivaandevwagle@gmail.com`
+email a message file to `vivaandevwaglec5@gmail.com`
 
 ex:-
 ```
