@@ -9,6 +9,6 @@ here people make many repositries and upgrade them
 Naveed Usman(SNUcoder), CEO, Founder
 Discord: Naveed#7302
 
-Vivaandev Wagle(vivaandevwagle), SVP, Co-Founder
+Vivaandev Wagle(vivaandevwagle), COO, Co-Founder
 Discord: Blaze15#3226
 ```
