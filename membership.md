@@ -1,6 +1,6 @@
 # Instructtions to become a membership
 
-email a message file to `vivaandevwaglec5@gmail.com`
+email a message file to `vivaandevwaglec5@gmail.com` or send a DM in discord `Blaze15#3226`
 
 ex:-
 ```
